@@ -173,3 +173,10 @@ Submitted to **USDC Agent Hackathon 2026**
 ---
 
 **Fair, Fast, and Fully On-Chain** ⚖️
+
+## Quickstart
+
+```bash
+# TODO: agrega pasos de instalacion/ejecucion
+```
+
